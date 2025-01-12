@@ -1,1 +1,2 @@
 # MPP_competition
+基于LightGBM和XGBoost的机器学习决策树模型，解决科学问题
